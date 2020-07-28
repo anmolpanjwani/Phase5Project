@@ -1,0 +1,4 @@
+The WriteUp can be found in the github repo
+The link for the same is as follows:
+
+https://github.com/anmolpanjwani/Phase5Project/blob/master/SeleniumTestNG.docx
